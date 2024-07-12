@@ -14,3 +14,16 @@
     font-size: larger;
     background-color: rgb(196, 255, 239);
 }
+.heder{
+    display: flex;
+    border: 10px;
+    border: 8px;
+    border color:red ;
+    
+}
+.section1{
+    padding: 20px;
+    text align:center;
+    border:red;
+
+}
