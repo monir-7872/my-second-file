@@ -1,0 +1,16 @@
+.first{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    background-color: bisque;
+    
+}
+.second{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    background-color: rgb(228, 255, 196);
+}
+.third{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    background-color: rgb(196, 255, 239);
+}
